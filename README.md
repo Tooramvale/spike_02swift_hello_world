@@ -1,32 +1,55 @@
-# Description
+Spike Plan
+==============
 
-This respository is to be use to generate new Spikes by reusing the existing
-Spike Plan and Spike Outcome templates to build a new project for a student or
-developer to complete. A Spike being used to either build a minimal viable
-product, to explore a possible solution or develop skills in a new expertise.
+**Name**: "Alex Sonneveld <alex.sonneveld@live.com.au>"
 
-> Create spike solutions to figure out answers to tough technical or design
-> problems. A spike solution is a very simple program to explore potential
-> solutions. Build the spike to only addresses the problem under examination and
-> ignore all other concerns. Most spikes are not good enough to keep, so expect
-> to throw it away. The goal is reducing the risk of a technical problem or
-> increase the reliability of a user story's estimate.
->
-> When a technical difficulty threatens to hold up the system's development put
-> a pair of developers on the problem for a week or two and reduce the potential
-> risk.
->
-> -- [Spike solution][]
+## Context:
+<PROGRAMMING_LANGUAGE>
 
-## Usage
+Markdown is a commonly used "text to HTML" syntax with a focus on content rather
+document markup, and is often used within most social coding platforms to build
+README files or documentation.
 
-Clone this repository in order to begin creating a new Spike or begin working on
-this Spike project.
+**Knowledge/Skill/Technology Gap:**
+The developer is not aware or familiar with <PROGRAMMING_LANGUAGE> and needs to
+setup their workstation to compile code written in <PROGRAMMING_LANGUAGE> for
+their future self-projects or external projects.
 
-# References
+## Goals/Deliverables:
+**[GIT REPOSITORY (CODE)] + [SPIKE REPORT]**
 
-- [Spike solution]
-  (http://www.extremeprogramming.org/rules/spike.html)
+You need to create a simple "Hello World" application in <PROGRAMMING_LANGUAGE>.
+It needs to compile. It should display the text "Hello World" to the screen,
+when executed. (The executable can be committed along side the source code,
+but even if it is not you need to detail how to compile said program so that the
+reviewer can compile it on their machine). This program should be the absolute
+minimum needed to write a program said <PROGRAMMING_LANGUAGE>.
 
-- [Guidance – Spikes – Scaled Agile Framework]
-  (http://www.scaledagileframework.com/spikes/)
+You need will need upload your copy of this Git repository, your with code and
+your Spike Report that describes the steps involved to setup your machine
+(and/or  potentially other remote machines) to run your <PROGRAMMING_LANGUAGE>
+code.
+
+Your reports should be in Markdown (or similar text format), so that the can be
+reviewed within the browser, or opened with the default text editor installed on
+the operating system (please NO Microsoft Word documents).
+
+**Planned start date:**  2017/03/06
+
+**Deadline:**  2017/03/15
+
+## Planning notes:
+- Review the Goals/Deliverables (above)
+- Review the recommended sources (below)
+- Read the _online_ documentation for <PROGRAMMING_LANGUAGE>
+- Commit your work to Git
+- Upload your finished report (in Markdown preferred) and provide a link
+
+**Extras / Bonus Points:**
+
+- What bugs did you encounter?
+- Can you execute the compiled (or interpreted) program on another machine, if
+  not why?
+
+### Recommend sources:
+- [<PROGRAMMING_LANGUAGE_WEBSITE>](<PROGRAMMING_LANGUAGE_WEBSITE_URL>)

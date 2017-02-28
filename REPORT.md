@@ -1,8 +1,8 @@
 Spike Outcomes
 ==================
-**Spike:** Spike_No
+**Spike:** Spike_No 01
 
-**Title:** Spike_Title
+**Title:** "Hello World" in <PROGRAMMING_LANGUAGE>
 
 **Author:** John Doe, john.doe@example.com
 
@@ -10,18 +10,15 @@ Spike Outcomes
 _#### Summarise from the spike plan goal_
 _#### Besides this report, what else was created ie UML, code, reports_
 - Code see /spikes/spike04/
-- Short Report titled “IDE Comparison”
-- …
+- Short Report titled "'Hello World' in <PROGRAMMING_LANGUAGE>"
+- ...
 
 ## Technologies, Tools, and Resources used:
 _#### List of information needed by someone trying to reproduce this work_
 - Internet Browser; Google Chrome, FireFox, Safari
-- Programming Languages:
-  - Ruby
-- Programming Libraries:
-  - Minitest
-- Text Editor: Sublime Text 2
-- Terminal
+- Git
+- Text Editor: NotePad++ / Sublime Text 2
+- Terminal / Command Prompt / Powershell
 
 ## Tasks undertaken:
 #### List key tasks likely to help another developer
