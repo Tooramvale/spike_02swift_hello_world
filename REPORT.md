@@ -1,20 +1,21 @@
 Spike Outcomes
 ==================
-**Spike:** Spike_No 01
+**Spike:** Spike_No 02
 
-**Title:** "Hello World" in <PROGRAMMING_LANGUAGE>
+**Title:** "Hello World" in Swift
 
-**Author:** John Doe, john.doe@example.com
+**Author:** Jane / John Doe, john.doe@example.com
 
 ## Goals / Deliverables:
 _#### Summarise from the spike plan goal_
 _#### Besides this report, what else was created ie UML, code, reports_
 - Code see /spikes/spike04/
-- Short Report titled "'Hello World' in <PROGRAMMING_LANGUAGE>"
+- Short Report titled "'Hello World' in Swift"
 - ...
 
 ## Technologies, Tools, and Resources used:
 _#### List of information needed by someone trying to reproduce this work_
+- Swift
 - Internet Browser; Google Chrome, FireFox, Safari
 - Git
 - Text Editor: NotePad++ / Sublime Text 2
